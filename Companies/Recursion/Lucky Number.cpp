@@ -1,3 +1,5 @@
+// Microsoft 
+
 // https://practice.geeksforgeeks.org/problems/lucky-numbers2911/0/?track=DSASP-Recursion&batchId=154#
 
 class Solution{
