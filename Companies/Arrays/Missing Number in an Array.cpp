@@ -1,3 +1,5 @@
+// Intuit, Microsoft, Amazon, Flipkart, Adobe 
+
 // https://practice.geeksforgeeks.org/problems/missing-number-in-array1416/1/?page=1&company[]=Intuit%20&sortBy=submissions
 
 class Solution{
